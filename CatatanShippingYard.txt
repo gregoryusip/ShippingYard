@@ -1,0 +1,7 @@
+Perkenalkan nama saya Gregoryus Imannuel Perdana, mahasiswa dari Bina Nusantara (Binus) University.
+
+Dalam mengerjakan technical test berjudul "Shipping Yard", 
+Saya menggunakan bahasa pemrograman Java dengan tools Eclipse IDE 2020 untuk mengerjakan Project ini.
+Saya membuat 1 abstrak class dan diwariskan (inherite) ke beberapa kelas lainnya untuk dapat menjawab proses enkapsulapsi dan polimorfisme.
+
+Terima kasih.
